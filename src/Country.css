@@ -16,6 +16,10 @@ h1, h2 {
     font-size: 3rem;
 }
 
+h1 {
+    padding: 20px;
+}
+
 h2 {
     font-size: 2rem;
     margin-top: 0;
@@ -24,6 +28,10 @@ h2 {
 .img-container {
     margin: 0 auto;
     height: 400px;
+}
+
+.mui-panel {
+    padding: 0;
 }
 
 img {
@@ -72,6 +80,10 @@ button {
     img {
         max-height: auto;
         max-width: 100%;
+    }
+
+    h1 {
+        padding: 0;
     }
 
 }

@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import Country from './Country';
 import registerServiceWorker from './registerServiceWorker';
 
