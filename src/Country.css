@@ -58,7 +58,7 @@ fieldset {
     border: 0;
 }
 
-form {
+.btn-wrapper {
     display: flex;
     margin: 0 auto;
     width: 99%;
